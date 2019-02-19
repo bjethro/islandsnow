@@ -11,3 +11,10 @@
   border:none;
 
 }
+
+.footer-background {
+  background-color: #ffffff;
+  height: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
