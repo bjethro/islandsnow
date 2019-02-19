@@ -4,3 +4,10 @@
   border:none;
 
 }
+
+.ui.borderless.middle.menu{
+  background-color: #f7f7f7;
+  box-shadow: none;
+  border:none;
+
+}
